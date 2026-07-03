@@ -1,4 +1,4 @@
-# GPS Locations Database
+# GPS Locations
 # Total: 94
 Baxshin Prd,35.540630,45.447895,62
 MM Kamera,35.543350,45.420769,62
