@@ -1,5 +1,6 @@
-GPS Locations Database
-# Total: 97
+# GPS_CYD camera list: Kurdistan Region of Iraq and Kirkuk Governorate, 2026-11-01
+# name,lat,lon,limit,heading(0-359 or blank),type(start/end or blank),source(me = saved on device)
+# Speed cameras from OpenStreetMap (c) OpenStreetMap contributors, ODbL 1.0, https://www.openstreetmap.org/copyright
 Baxshin Prd,35.540630,45.447895,60
 MM Kamera,35.543350,45.420769,60
 Rzgari,35.558884,45.398544,60
@@ -97,3 +98,242 @@ Prd_farwq,35.554920,45.466690,80
 Mamostayan,35.567440,45.439068,60
 L:455050,35.583527,45.294651,80
 L:730931,35.577454,45.334003,80
+Zakho - Batifa Highway,37.188843,42.958088,60
+Zakho - Batifa Highway,37.181719,42.893694,80
+Zakho - Batifa Highway,37.180786,42.883186,80
+Koçka Hunerî Road,37.167365,42.685262,60
+Koçka Hunerî Road,37.167264,42.685195,60
+Zakho - Batifa Highway,37.157536,42.711679,80
+Zakho - Batifa Highway,37.157427,42.711783,60
+Kamera 657707,37.152951,42.662749,60
+Kamera 514721,37.152903,42.662550,60
+Aşê Çemi Road,37.145904,42.661283,60
+Old Cemetery ROAD,37.135634,42.684151,60
+Old Cemetery ROAD,37.135569,42.684245,60
+Zakho Center,37.132821,42.677456,60
+دهۆک - زاخۆ,37.131670,42.677460,60
+دهۆک - زاخۆ,37.122955,42.677988,80
+دهۆک - زاخۆ,37.122916,42.678184,80
+دهۆک - زاخۆ,37.105610,42.670435,20
+دهۆک - زاخۆ,37.105582,42.670602,80
+دهۆک - زاخۆ,37.104121,42.669657,80
+دهۆک - زاخۆ,37.104088,42.669854,20
+دهۆک - زاخۆ,37.099125,42.665702,60
+دهۆک - زاخۆ,37.091692,42.661323,80
+دهۆک - زاخۆ,37.081199,42.657578,80
+دهۆک - زاخۆ,37.081193,42.657988,80
+Galye Zakho Tunnel,37.061988,42.651810,80
+Galye Zakho Tunnel,37.061942,42.652203,80
+Galye Zakho Tunnel,37.059542,42.651398,70
+Galye Zakho Tunnel,37.047418,42.647505,80
+Galye Zakho Tunnel,37.047375,42.647978,80
+Gali - Zakho Road,37.042842,42.646950,20
+Gali - Zakho Road,37.042823,42.647125,80
+Gali - Zakho Road,37.042810,42.646844,20
+Gali - Zakho Road,37.042449,42.647124,20
+Gali - Zakho Road,37.042364,42.646856,100
+Gali - Zakho Road,37.042361,42.647060,20
+دهۆک - زاخۆ,37.041341,42.646928,80
+دهۆک - زاخۆ,36.994779,42.640612,100
+دهۆک - زاخۆ,36.992499,42.642115,100
+دهۆک - زاخۆ,36.992471,42.641801,100
+دهۆک - زاخۆ,36.987450,42.645674,100
+دهۆک - زاخۆ,36.987385,42.645516,100
+دهۆک - زاخۆ,36.973046,42.656305,100
+دهۆک - زاخۆ,36.965720,42.663853,100
+دهۆک - زاخۆ,36.965600,42.663801,100
+دهۆک - زاخۆ,36.961954,42.700701,100
+دهۆک - زاخۆ,36.961944,42.700744,100
+دهۆک - زاخۆ,36.951945,42.725355,60
+دهۆک - زاخۆ,36.951815,42.725278,60
+دهۆک - زاخۆ,36.941740,42.739740,100
+دهۆک - زاخۆ,36.941704,42.739765,100
+دهۆک - زاخۆ,36.929097,42.756445,60
+دهۆک - زاخۆ,36.928942,42.756300,60
+دهۆک - زاخۆ,36.919486,42.774814,60
+دهۆک - زاخۆ,36.919356,42.774716,60
+دهۆک - زاخۆ,36.916944,42.779392,100
+دهۆک - زاخۆ,36.916922,42.779429,100
+Amedi - Duhok,36.906829,43.136654,60
+Duhok - Amedi,36.906753,43.136776,60
+دهۆک - زاخۆ,36.897599,42.803811,100
+دهۆک - زاخۆ,36.897529,42.803643,100
+دهۆک - زاخۆ,36.889902,42.811939,100
+دهۆک - زاخۆ,36.889865,42.811957,100
+دهۆک - زاخۆ,36.880437,42.822049,100
+دهۆک - زاخۆ,36.880410,42.822064,100
+Qazi Mohammad Road,36.868936,42.942657,60
+Qazi Mohammad Road,36.868807,42.942564,60
+Amedi - Duhok,36.868170,43.102826,80
+دهۆک - زاخۆ,36.866516,42.836901,100
+دهۆک - زاخۆ,36.866486,42.836914,100
+Amedi - Duhok,36.862116,43.070435,80
+Ashti Street,36.861269,42.976864,60
+Ashti Street,36.861268,42.976979,60
+Dobangy Road,36.859160,42.859409,80
+Zakho Way,36.857403,42.966892,60
+Zakho Way,36.857279,42.966996,60
+دهۆک - زاخۆ,36.856207,42.867565,100
+دهۆک - زاخۆ,36.855981,42.869618,100
+Zakho Way,36.855083,42.948552,60
+Zakho Way,36.855083,42.948454,60
+Zakho Way,36.854946,42.947785,60
+Avro Road,36.852630,42.905416,100
+Dohuk Terminal,36.852261,42.910646,100
+Barzan Motorway,36.849489,43.046086,80
+Barzan Motorway,36.849343,43.046211,80
+Barzan Motorway,36.848971,42.931691,80
+Barzan Motorway,36.848771,42.938770,80
+Barzan Motorway,36.848695,42.934760,60
+Barzan Motorway,36.848115,42.968367,80
+Barzan Motorway,36.848018,42.968118,80
+Duhok - Erbil Road,36.847790,43.057170,80
+Duhok - Erbil Road,36.847591,43.056995,80
+Barzan Motorway,36.846917,43.035355,80
+Barzan Motorway,36.846917,42.996002,80
+Barzan Motorway,36.846808,43.026660,80
+Barzan Motorway,36.846756,42.995868,80
+Barzan Motorway,36.846686,43.026540,80
+Duhok - Erbil Road,36.845430,43.061712,80
+Duhok - Erbil Road,36.845333,43.061344,80
+Duhok - Erbil Road,36.836523,43.082513,80
+Duhok - Erbil Road,36.836309,43.082370,80
+Duhok - Erbil Road,36.830842,43.095243,100
+Duhok - Erbil Road,36.830682,43.095029,100
+Duhok - Erbil Road,36.825998,43.121920,60
+Duhok - Erbil Road,36.823614,43.109198,20
+Barzani Street,36.649380,44.514197,80
+Barzani Street,36.649253,44.514297,80
+Bapshtian Road,36.640220,44.508641,80
+Bapshtian Road,36.640180,44.508516,80
+Bapshtian Road,36.636709,44.510705,80
+Bapshtian Road,36.636694,44.510566,80
+Hazhar Mukryani Street,36.630452,44.573098,70
+Hazhar Mukryani Street,36.630353,44.568541,70
+Hazhar Mukryani Street,36.630311,44.573153,70
+Hazhar Mukryani Street,36.630198,44.568506,70
+Khalifan - Harir Road,36.610090,44.351469,80
+Khalifan - Harir Road,36.607814,44.356633,80
+Khalifan - Harir Road,36.605343,44.361035,80
+Khalifan - Harir Road,36.598844,44.373971,80
+سەربەخۆیی,36.595242,44.392689,60
+Erbil - Akre road,36.490053,44.377410,100
+Erbil - Akre road,36.489937,44.377331,100
+Erbil - Akre road,36.485212,44.381166,100
+Erbil - Akre road,36.485207,44.381400,100
+Erbil - Akre road,36.482802,44.381121,100
+Erbil - Akre road,36.482796,44.380970,100
+Shaqlawa Road,36.390102,44.238242,100
+Shaqlawa Road,36.385249,44.232454,100
+Shaqlawa Road,36.381165,44.226050,70
+Shaqlawa Road,36.380970,44.226237,70
+Permam Tunnel,36.379919,44.223469,70
+Permam Tunnel,36.371984,44.209390,70
+Permam Tunnel,36.371984,44.209389,70
+Permam Tunnel,36.368617,44.203549,80
+Kamera 3,36.367107,44.198696,100
+Kamera 3,36.355247,44.182296,100
+Kamera 3,36.355143,44.182383,100
+Kamera 3,36.350340,44.179930,100
+Kamera 3,36.349461,44.179215,100
+Pirmam Road,36.349421,44.176768,100
+Pirmam Road,36.349403,44.176929,100
+Pirmam Road,36.305425,44.130924,100
+Bahirka St.,36.260497,44.014068,80
+Bahirka St.,36.260476,44.014252,80
+120 M Ring Road,36.238355,44.047967,110
+120 M Ring Road,36.238152,44.047826,110
+120 M Ring Road,36.224500,43.974888,110
+120 M Ring Road,36.224369,43.975088,110
+Pirmam Street,36.219067,44.038209,80
+Gulan Street,36.217974,44.006793,60
+Gulan Street,36.217860,44.006867,60
+Sir John Major Street,36.211317,43.996975,60
+Sir John Major Street,36.211295,43.996927,60
+Koya road,36.203396,44.109292,80
+Koya road,36.203252,44.109335,80
+فڕۆکەخانە,36.198504,43.984768,60
+فڕۆکەخانە,36.197432,43.987978,60
+Koya road,36.193922,44.042528,60
+Koya road,36.193038,44.037030,60
+Koya road,36.192955,44.037054,60
+Peshawa Qazi Street,36.192399,43.962785,80
+Mosul Road,36.185440,43.986468,60
+Mosul Road,36.178508,43.955374,80
+Mosul Road,36.178440,43.955339,80
+Kurdistan Street,36.174859,44.004400,60
+Kurdistan Street,36.174301,44.006063,60
+120 M Ring Road,36.168946,43.951971,110
+Makhmur Street,36.161511,43.993861,60
+Makhmur Street,36.161435,43.994112,60
+120 M Ring Road,36.141363,44.037377,110
+120 M Ring Road,36.141205,44.037553,110
+Karkuk Street,36.140179,44.020914,60
+Karkuk Street,36.140138,44.020689,60
+جۆت جادەی دار,36.127481,44.027725,60
+Karkuk Street,36.118970,44.023446,80
+Karkuk Street,36.118942,44.023710,80
+Karkuk Street,36.089692,44.024030,100
+Karkuk Street,36.055561,44.036226,100
+Karkuk Street,36.040884,44.036773,100
+Karkuk Street,36.018429,44.037646,100
+Erbil-Karkuk Road,35.986110,44.048074,100
+Erbil-Kirkuk Road,35.951276,44.067138,100
+Erbil-Kirkuk Road,35.907064,44.069122,100
+Erbil-Kirkuk Road,35.907019,44.068978,100
+Kirkuk - Erbil,35.870412,44.083478,100
+Erbil-Kirkuk Road,35.827852,44.100192,100
+Slemani-Dukan Road,35.820689,45.094425,100
+Slemani-Dukan Road,35.750176,45.141407,100
+Dukan - Sulaymaniya,35.750074,45.141227,100
+Slemani-Dukan Road,35.715820,45.171862,100
+Dukan - Sulaymaniya,35.715710,45.171681,100
+Sulaymaniya - Dukan,35.689844,45.193763,100
+Dukan - Sulaymaniya,35.689766,45.193556,100
+Sulaymaniya - Dukan,35.660361,45.211686,100
+Dukan - Sulaymaniya,35.660285,45.211513,100
+Slemani - Kirkuk Road,35.646486,45.004326,80
+Kirkuk - Slemani Road,35.646329,45.004338,80
+Slemani - Kirkuk Road,35.643328,45.035591,100
+Kirkuk - Slemani Road,35.643158,45.035567,100
+Slemani - Kirkuk Road,35.630451,44.963982,60
+Kirkuk - Slemani Road,35.630335,44.964153,60
+Slemani - Kirkuk Road,35.630132,45.068693,100
+Kirkuk - Slemani Road,35.629986,45.068559,100
+Slemani - Kirkuk Road,35.614571,45.097787,100
+Kirkuk - Slemani Road,35.614387,45.097772,100
+Slemani - Kirkuk Road,35.605626,44.936514,100
+Kirkuk - Slemani Road,35.605511,44.936644,100
+Slemani - Kirkuk Road,35.601884,45.138882,100
+Kirkuk - Slemani Road,35.601752,45.138732,100
+Peshmarga Highway,35.589842,45.240177,80
+Peshmarga Highway,35.589629,45.240170,80
+Slemani - Kirkuk Road,35.588263,44.893402,100
+Kirkuk - Slemani Road,35.588155,44.893532,100
+Peshmarga Highway,35.587991,45.256683,80
+Peshmarga Highway,35.587776,45.256662,80
+Peshmarga Highway,35.585890,45.275344,80
+Peshmarga Highway,35.585682,45.275324,80
+Slemani - Kirkuk Road,35.584018,45.171512,80
+Kirkuk - Slemani Road,35.583844,45.171617,80
+Malik Mahmud Ring Road,35.581023,45.412511,60
+Slemani - Kirkuk Road,35.569334,44.866656,100
+Kirkuk - Slemani Road,35.569201,44.866816,100
+Malik Mahmud Ring Road,35.558971,45.399104,60
+Malik Mahmud Ring Road,35.553052,45.407985,60
+Malik Mahmud Ring Road,35.552887,45.408061,60
+Malik Mahmud Ring Road,35.548920,45.464180,60
+Malik Mahmud Ring Road,35.543044,45.421564,60
+Slemani - Kirkuk Road,35.538456,44.847510,80
+Kirkuk - Slemani Road,35.538456,44.847697,80
+Kamera 4,35.537351,45.431610,60
+Slemani - Kirkuk Road,35.518606,44.817159,80
+Kirkuk - Slemani Road,35.518463,44.817206,80
+Slemani - Kirkuk Road,35.502956,44.789983,80
+Kirkuk - Slemani Road,35.502808,44.790059,80
+Sulaimani-Arbat Road,35.432772,45.577299,60
+زەڕایەن - عەر,35.410141,45.588854,0
+زەڕایەن - عەر,35.410086,45.588757,0
+زەڕایەن - عەر,35.384709,45.609026,100
+Arbat Zarayan Road,35.347102,45.637089,100
+Arbat Zarayan Road,35.326963,45.659068,100
