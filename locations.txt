@@ -1,4 +1,4 @@
-# GPS_CYD camera list: Kurdistan Region of Iraq and Kirkuk Governorate, 2026-11-01
+# GPS_CYD camera list: Iraq (all governorates, Kurdistan Region and Kirkuk included), 2026-11-01
 # name,lat,lon,limit,heading(0-359 or blank),type(start/end or blank),source(me = saved on device)
 # Speed cameras from OpenStreetMap (c) OpenStreetMap contributors, ODbL 1.0, https://www.openstreetmap.org/copyright
 Baxshin Prd,35.540630,45.447895,60
@@ -337,3 +337,101 @@ Sulaimani-Arbat Road,35.432772,45.577299,60
 زەڕایەن - عەر,35.384709,45.609026,100
 Arbat Zarayan Road,35.347102,45.637089,100
 Arbat Zarayan Road,35.326963,45.659068,100
+Duhok-Mosul Road,36.837290,42.917301,20
+Duhok-Mosul Road,36.835367,42.918075,20
+Duhok - Erbil Road,36.796161,43.219888,60
+رێڤه‌به‌ریا,36.784952,42.889646,20
+رێڤه‌به‌ریا,36.784856,42.889158,20
+Akre - Ruviya road,36.733091,43.875101,60
+Kamera 445453,36.731646,43.886623,60
+Duhok-Mosul Road,36.731315,42.934632,60
+Akre - Ruviya road,36.730265,43.863508,60
+Duhok - Erbil Road,36.658594,43.303170,80
+Duhok - Erbil Road,36.658363,43.303116,80
+Duhok - Erbil Road,36.656534,43.313640,80
+Duhok - Erbil Road,36.656331,43.313514,80
+Duhok - Erbil Road,36.653404,43.436942,100
+Duhok - Erbil Road,36.653201,43.436767,100
+Duhok - Erbil Road,36.651371,43.390179,80
+Duhok - Erbil Road,36.651181,43.390365,80
+Duhok - Erbil Road,36.644286,43.464194,80
+Dihok - Hawler Road,36.644275,43.556495,80
+Duhok - Erbil Road,36.644088,43.464058,80
+Dihok - Hawler Road,36.644082,43.556701,80
+Dihok - Hawler Road,36.640015,43.573533,100
+Dihok - Hawler Road,36.639764,43.573366,100
+Dihok - Hawler Road,36.638779,43.538611,100
+Dihok - Hawler Road,36.638613,43.538691,100
+duhok-erbil_road_&_alind,36.637779,43.528776,50
+duhok-erbil_road_&_alind,36.637582,43.524954,50
+Muhammad ibn al-Qasim Hi,33.394876,44.367516,100
+Muhammad ibn al-Qasim Hi,33.394797,44.367331,100
+Muhammad ibn al-Qasim Hi,33.383740,44.376605,100
+Muhammad ibn al-Qasim Hi,33.383649,44.376404,100
+Imam Ali Street,33.366259,44.424344,100
+Umar ibn al-Khattab High,33.365592,44.423227,100
+Muhammad ibn al-Qasim Hi,33.364673,44.389860,100
+Muhammad ibn al-Qasim Hi,33.364607,44.390154,100
+Imam Ali Street,33.337703,44.460840,100
+Umar ibn al-Khattab High,33.336805,44.459979,100
+Abu Tammam Street,33.331812,44.415356,100
+Abu Tammam Street,33.331660,44.415362,100
+Muhammad ibn al-Qasim Hi,33.326197,44.428107,100
+Muhammad ibn al-Qasim Hi,33.326087,44.427928,100
+Abd al-Wahab al-Shawaf S,33.317951,44.394749,80
+Muhammad ibn al-Qasim Hi,33.310441,44.455916,100
+Muhammad ibn al-Qasim Hi,33.310270,44.455765,100
+Qadisiyyah Expressway,33.306680,44.391566,100
+Qadisiyyah Expressway,33.305784,44.389224,100
+Muhammad ibn al-Qasim Hi,33.295117,44.487332,100
+Muhammad ibn al-Qasim Hi,33.294934,44.487280,100
+Airport Highway,33.291312,44.316693,100
+Airport Highway,33.290501,44.319839,100
+Airport Highway,33.289833,44.328759,100
+Airport Highway,33.289556,44.303132,100
+Airport Highway,33.289296,44.299010,100
+Airport Highway,33.289050,44.329246,100
+Airport Highway,33.285820,44.290844,100
+Masafi Street,33.259918,44.411258,100
+Masafi Street,33.259704,44.411244,100
+Kut - Baghdad Road,33.229376,44.557657,100
+Kut - Baghdad Road,33.229353,44.557836,100
+al-Yusufiya Highway,33.228051,44.413543,100
+al-Yusufiya Highway,33.228011,44.413800,100
+al-Yusufiya Highway,33.221645,44.416949,100
+al-Yusufiya Highway,33.221455,44.416780,100
+Kut - Baghdad Road,33.199907,44.572752,100
+Kut - Baghdad Road,33.199728,44.572625,100
+Kut - Baghdad Road,33.169893,44.622388,100
+Kut - Baghdad Road,33.169726,44.622305,100
+Kut - Baghdad Road,33.138152,44.676399,100
+Kut - Baghdad Road,33.138093,44.676212,100
+Freeway 1,33.127006,44.366567,100
+Freeway 1,33.126611,44.371145,100
+Kut - Baghdad Road,33.105787,44.710240,100
+Kut - Baghdad Road,33.105650,44.710115,100
+Baghdad-Karbala Road,32.714451,44.198319,100
+Baghdad-Karbala Road,32.704733,44.167006,100
+Baghdad-Karbala Road,32.698913,44.148368,100
+Baghdad-Karbala Road,32.692952,44.129303,100
+Baghdad-Karbala Road,32.685792,44.096371,100
+Baghdad-Karbala Road,32.683596,44.085864,100
+Baghdad-Karbala Road,32.682551,44.080980,100
+Baghdad-Karbala Road,32.664810,44.067106,100
+Baghdad-Karbala Road,32.654733,44.056414,100
+بابل - كربلاء,32.606827,44.076099,100
+بابل - كربلاء,32.605450,44.090019,100
+بابل - كربلاء,32.587814,44.138961,100
+بابل - كربلاء,32.586889,44.145253,100
+النجف - كربلا,32.578316,44.037227,80
+بابل - كربلاء,32.575141,44.193207,100
+Baghdad - Hillah Road,32.518334,44.431479,60
+Hillah - Baghdad Road,32.518325,44.431684,60
+النجف - كربلا,32.515250,44.123890,100
+النجف - كربلا,32.510580,44.128065,100
+كربلاء - النج,32.481920,44.150672,100
+النجف - كربلا,32.476126,44.154433,100
+النجف - كربلا,32.471139,44.157462,100
+كربلاء - النج,32.437507,44.177584,100
+النجف - كربلا,32.391155,44.210729,100
+النجف - كربلا,32.356061,44.235925,100
